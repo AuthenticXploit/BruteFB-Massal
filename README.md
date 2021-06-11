@@ -1,6 +1,6 @@
 # BruteFB-Massal
 Bulk hack facebook accounts
-<img src="https://github.com/AuthenticXploit/BruteFB-Massal/blob/main/Screenshot_2020-12-10-20-35-12-picsay.png">
+<img src="https://github.com/AuthenticXploit/BruteFB-Massal/blob/main/img/Screenshot_2021-06-11-16-06-46-128_com.termux-picsay.jpg">
 # Installations Termux
 ```
 $ pkg install python
