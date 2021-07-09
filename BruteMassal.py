@@ -3,7 +3,7 @@
 """
 BruteMassal.py
 
-Created by AuthenticXploit on 11/06/2021.
+Created by AuthenticXploit on 09/07/2021.
 Copyright (c) 2021 Copyright Holder. All rights reserved.
 """
 
@@ -51,7 +51,7 @@ slowprint("""\033[36;1m
      \x1b[1;97m Author   \033[31;1m:  \033[32mAuthenticXploit
      \x1b[1;97m Type     \033[31;1m:  \033[32mBruteForce
      \x1b[1;97m Version  \033[31;1m:  \033[32m0.3
-     \x1b[1;97m Contact  \033[31;1m:  \033[32mhttps://t.me/AuthenticXploit_bot
+     \x1b[1;97m Contact  \033[31;1m:  \033[32mhttps://t.me/AuthenticXploit
      \x1b[1;97m                 
 """)
 
